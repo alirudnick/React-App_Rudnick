@@ -12,14 +12,14 @@ export default function Projects() {
   return (
     <div className="projects">
       <div className="work-container primary-container">
-        <a href="https://rocky-thicket-55053.herokuapp.com/" target="_blank" rel="noreferrer">
+        <a href="https://rocky-thicket-55053.herokuapp.com/" target="_blank" rel="">
           <img src={longevity} alt="Longevity"/>
         </a>
         <h3><a href="https://github.com/alexisbenavidez99/workout-tracker">Longevity</a></h3>
       </div>
 
       <div className="work-container">
-        <a href="http://127.0.0.1:3000/Horiseon_Rudnick_Ch1/index.html" target="_blank" rel="noreferrer">
+        <a href="http://127.0.0.1:3000/Horiseon_Rudnick_Ch1/index.html" target="_blank" rel="">
           <img src={horiseon} alt="Horiseon"/>
         </a>
         <h3><a href="https://github.com/alirudnick/Horiseon_Rudnick_Ch1">Horiseon</a></h3>
@@ -27,7 +27,7 @@ export default function Projects() {
       </div>
 
       <div className="work-container">
-        <a href="https://expressjs-note-taker.herokuapp.com/" target="_blank" rel="noreferrer">
+        <a href="https://expressjs-note-taker.herokuapp.com/" target="_blank" rel="">
           <img src={notetaker} alt="Notetaker"/>
         </a>
         <h3><a href="https://github.com/alirudnick/alirudnick-Express.js-Note-Taker_Rudnick.git">Note Taker</a></h3>
@@ -35,7 +35,7 @@ export default function Projects() {
       </div>
 
       <div className="work-container">
-        <a href="https://alirudnick.github.io/CodeQuiz_Rudnick/" target="_blank" rel="noreferrer">
+        <a href="https://alirudnick.github.io/CodeQuiz_Rudnick/" target="_blank" rel="">
           <img src={quiz} alt="Quiz"/>
         </a>
         <h3><a href="https://github.com/alirudnick/CodeQuiz_Rudnick.git">Code Quiz</a></h3>
@@ -43,7 +43,7 @@ export default function Projects() {
       </div>
 
       <div className="work-container">
-        <a href="https://alirudnick.github.io/Password-Generator_Rudnick/" target="_blank" rel="noreferrer">
+        <a href="https://alirudnick.github.io/Password-Generator_Rudnick/" target="_blank" rel="">
           <img src={password} alt="Password Generator"/>
         </a>
         <h3><a href="https://github.com/alirudnick/Password-Generator_Rudnick.git">Password Generator</a></h3>
@@ -51,7 +51,7 @@ export default function Projects() {
       </div>
 
       <div className="work-container">
-        <a href="https://alirudnick.github.io/Work-Day-Scheduler_Rudnick/" target="_blank" rel="noreferrer">
+        <a href="https://alirudnick.github.io/Work-Day-Scheduler_Rudnick/" target="_blank" rel="">
           <img src={scheduler} alt="Scheduler"/>
         </a>
         <h3><a href="https://github.com/alirudnick/Work-Day-Scheduler_Rudnick">Work Day Scheduler</a></h3>
