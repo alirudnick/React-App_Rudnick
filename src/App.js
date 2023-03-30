@@ -1,10 +1,10 @@
 import React from "react";
 import "./index.css";
-import Resume from "../src/pages/Resume";
-import About from "../src/pages/About";
-import Project from "../src/pages/Project";
-import Contact from "../src/pages/Contact";
-import Home from "../src/pages/Home";
+import Resume from "./pages/Resume";
+import About from "./pages/About";
+import Project from "./pages/Project";
+import Contact from "./pages/Contact";
+import Home from "./pages/Home";
 
 import { Route, Routes } from "react-router-dom";
 
