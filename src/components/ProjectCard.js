@@ -7,6 +7,9 @@ import notetaker from '../assets/Proj_notetaker.png';
 import quiz from '../assets/Proj_Quiz.png';
 import password from '../assets/Proj_password.png';
 import scheduler from '../assets/Proj_scheduler.png';
+import coin from '../assets/Proj_coin.png';
+import book from '../assets/Proj_read.png';
+import team from '../assets/Proj_Team.png';
 
 export default function Projects() {
   return (
@@ -51,11 +54,35 @@ export default function Projects() {
       </div>
 
       <div className="work-container">
+        <a href="https://github.com/alirudnick/OOP_Team-Profile-Generator_Rudnick" target="_blank" rel="">
+          <img src={coin} alt="Coinspire"/>
+        </a>
+        <h3><a href="https://github.com/devkjoon/coinspire.git">Coinspire</a></h3>
+        <p><a href="https://github.com/devkjoon/coinspire.git"></a></p>
+      </div>
+
+      <div className="work-container">
         <a href="https://alirudnick.github.io/Work-Day-Scheduler_Rudnick/" target="_blank" rel="">
           <img src={scheduler} alt="Scheduler"/>
         </a>
         <h3><a href="https://github.com/alirudnick/Work-Day-Scheduler_Rudnick">Work Day Scheduler</a></h3>
         <p><a href="https://github.com/alirudnick/Work-Day-Scheduler_Rudnick"></a></p>
+      </div>
+
+      <div className="work-container">
+        <a href="https://github.com/alirudnick/OOP_Team-Profile-Generator_Rudnick" target="_blank" rel="">
+          <img src={team} alt="Team Generator"/>
+        </a>
+        <h3><a href="https://github.com/alirudnick/OOP_Team-Profile-Generator_Rudnick">Team Generator</a></h3>
+        <p><a href="https://github.com/alirudnick/OOP_Team-Profile-Generator_Rudnick"></a></p>
+      </div>
+
+      <div className="work-container">
+        <a href="https://book-haven.herokuapp.com/" target="_blank" rel="">
+          <img src={book} alt="Book Store"/>
+        </a>
+        <h3><a href="https://github.com/Nmotley92/e-commerce-site">Book Haven</a></h3>
+        <p><a href="https://github.com/Nmotley92/e-commerce-site"></a></p>
       </div>
 
     </div>

@@ -55,9 +55,10 @@
   }
 
   .work-container:nth-last-child(-n+3) {
-    margin-bottom: 50px;
+    margin-bottom: 5px;
   }
 
   h3{
     color: white;
   }
+
