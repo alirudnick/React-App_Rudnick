@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "e546ea4a149634288c4f",
-    "url": "/React-App_Rudnick/static/css/main.db1e6890.chunk.css"
+    "revision": "43e6c3b9040ac80df71d",
+    "url": "/React-App_Rudnick/static/css/main.5541b6f0.chunk.css"
   },
   {
-    "revision": "e546ea4a149634288c4f",
-    "url": "/React-App_Rudnick/static/js/main.a833d111.chunk.js"
+    "revision": "43e6c3b9040ac80df71d",
+    "url": "/React-App_Rudnick/static/js/main.1a2daec8.chunk.js"
   },
   {
     "revision": "e505b9cc8c7d0f749b02",
     "url": "/React-App_Rudnick/static/js/runtime~main.2507f30d.js"
   },
   {
-    "revision": "aa2872159dd6c092de48",
-    "url": "/React-App_Rudnick/static/js/2.87e30647.chunk.js"
+    "revision": "846898749cc32e5891e3",
+    "url": "/React-App_Rudnick/static/js/2.416ceece.chunk.js"
   },
   {
     "revision": "676b0382b51e92690926edd481c73985",
@@ -44,11 +44,23 @@ self.__precacheManifest = [
     "url": "/React-App_Rudnick/static/media/Proj_scheduler.6c10ef36.png"
   },
   {
+    "revision": "da46ce53cf3e5224b97e89f21c1629e3",
+    "url": "/React-App_Rudnick/static/media/Proj_coin.da46ce53.png"
+  },
+  {
+    "revision": "03397307ec45e23113212bf6354307ca",
+    "url": "/React-App_Rudnick/static/media/Proj_read.03397307.png"
+  },
+  {
+    "revision": "15de09a14991cfbba4528995f12e5697",
+    "url": "/React-App_Rudnick/static/media/Proj_Team.15de09a1.png"
+  },
+  {
     "revision": "7d8e167cf7b2c4e3dbe5b16961e06de1",
     "url": "/React-App_Rudnick/static/media/IMG_4455.7d8e167c.jpg"
   },
   {
-    "revision": "566a5413fa7160ca7310c43b0b37c370",
+    "revision": "199184f9da1f1d80ec9cef298951c755",
     "url": "/React-App_Rudnick/index.html"
   }
 ];
